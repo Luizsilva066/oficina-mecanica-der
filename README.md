@@ -1,3 +1,3 @@
 # oficina-mecanica-der
 
- <img src="./oficina-mecanica">
+ <img src="./oficina-mecanica.png">
